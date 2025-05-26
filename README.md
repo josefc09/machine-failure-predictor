@@ -40,12 +40,11 @@ Machine Learning solution that predicts when a machine will fail using  Microsof
 
 ## Documentation
 
-Documentation
-
 This project includes specific design and reporting documents located in the docs/ folder:
 
-* `docs/Short technical report.md`: Provides a concise summary of the project, methodology, and results.
 * `docs/Technical design.md`: Details the technical architecture, data flow, model design, and API implementation.
+* `docs/Short technical report.md`: Provides a concise summary of the project, methodology, and results.
+
 
 Refer to these documents for in-depth information about the project's design and findings.
 
@@ -62,8 +61,8 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone <machine-failure-predictor_url>
+    cd <machine-failure-predictor>
     ```
 
 2.  **Create a virtual environment:**
@@ -107,7 +106,7 @@ This command runs the training script using the data and parameters defined in `
 python src/train.py
 ```
 
-Running Batch Predictions
+### Running Batch Predictions
 
 This command uses the trained model to make predictions on synthetic data (as specified by synthetic_data_folder in config.yaml). It loads the model, processes the new data, and outputs the risk predictions.
 
@@ -115,7 +114,7 @@ This command uses the trained model to make predictions on synthetic data (as sp
 python src/predict.py
 ```
 
-Running the RESTful API Service
+### Running the RESTful API Service
 
 This command starts the FastAPI server. The `--reload` flag enables auto-reloading during development. Not recommended for production.
 
