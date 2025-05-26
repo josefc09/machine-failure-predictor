@@ -42,9 +42,8 @@ Machine Learning solution that predicts when a machine will fail using  Microsof
 
 This project includes specific design and reporting documents located in the docs/ folder:
 
-* `docs/Technical design.md`: Details the technical architecture, data flow, model design, and API implementation.
-* `docs/Short technical report.md`: Provides a concise summary of the project, methodology, and results.
-
+* [Technical Design Document](docs/Technical%20design.md): Details the technical architecture, data flow, model design, and API implementation.
+* [Short Technical Report](docs/Short%20technical%20report.md): Provides a concise summary of the project, methodology, and results.
 
 Refer to these documents for in-depth information about the project's design and findings.
 
