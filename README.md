@@ -135,7 +135,7 @@ Once the server is running, you can interact with the API:
 1.  **Interactive Documentation (Swagger UI):**
 
     Open your browser and navigate to:
-
+    
     [http://localhost:8000/docs](http://localhost:8000/docs)
 
     This provides an interactive interface where you can test the `/predict` endpoint directly.
@@ -146,7 +146,7 @@ Once the server is running, you can interact with the API:
 
     ```bash
     curl -X 'POST' \
-      '[http://127.0.0.1:8000/predict](http://127.0.0.1:8000/predict)' \
+      '[http://localhost:8000/predict](http://localhost:8000/predict)' \
       -H 'accept: application/json' \
       -H 'Content-Type: application/json' \
       -d '[
