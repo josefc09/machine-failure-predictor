@@ -48,7 +48,8 @@ This report summarizes the development phase of the Predictive Maintenance Syste
 
 **4\. LESSONS LEARNED**
 
-* **Data is Key:** The quality and representativeness of the input data are paramount. **Rare Events are Hard:** Predicting failures (a rare event) requires careful handling of class imbalance and focusing on appropriate metrics (like Recall) beyond just Accuracy.  
+* **Data is Key:** The quality and representativeness of the input data are paramount.
+* **Rare Events are Hard:** Predicting failures (a rare event) requires careful handling of class imbalance and focusing on appropriate metrics (like Recall) beyond just Accuracy.  
 * **Feature Engineering Matters:** Simple rolling statistics provided good predictive power, but a deeper domain understanding could unlock even better features.  
 * **MLOps is Essential:** While building the model was successful, moving to production highlights the need for robust MLOps practices: versioning, monitoring, automated retraining, and CI/CD.  
 * **FastAPI is Fast (to Develop & Run):** The framework significantly accelerated API development and provided good performance.  
