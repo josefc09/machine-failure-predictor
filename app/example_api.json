@@ -1,0 +1,423 @@
+[
+  {
+    "machineID": 1,
+    "telemetryLast24h": [
+      {
+        "datetime": "2025-05-23T00:00:00",
+        "machineID": 1,
+        "volt": 160.0,
+        "rotate": 1080.0,
+        "pressure": 100.0,
+        "vibration": 48.0
+      },
+      {
+        "datetime": "2025-05-23T01:00:00",
+        "machineID": 1,
+        "volt": 159.0,
+        "rotate": 1076.0,
+        "pressure": 99.6,
+        "vibration": 48.4
+      },
+      {
+        "datetime": "2025-05-23T02:00:00",
+        "machineID": 1,
+        "volt": 158.0,
+        "rotate": 1072.0,
+        "pressure": 99.2,
+        "vibration": 48.8
+      },
+      {
+        "datetime": "2025-05-23T03:00:00",
+        "machineID": 1,
+        "volt": 157.0,
+        "rotate": 1068.0,
+        "pressure": 98.8,
+        "vibration": 49.2
+      },
+      {
+        "datetime": "2025-05-23T04:00:00",
+        "machineID": 1,
+        "volt": 156.0,
+        "rotate": 1064.0,
+        "pressure": 98.4,
+        "vibration": 49.6
+      },
+      {
+        "datetime": "2025-05-23T05:00:00",
+        "machineID": 1,
+        "volt": 155.0,
+        "rotate": 1060.0,
+        "pressure": 98.0,
+        "vibration": 50.0
+      },
+      {
+        "datetime": "2025-05-23T06:00:00",
+        "machineID": 1,
+        "volt": 154.0,
+        "rotate": 1056.0,
+        "pressure": 97.6,
+        "vibration": 50.4
+      },
+      {
+        "datetime": "2025-05-23T07:00:00",
+        "machineID": 1,
+        "volt": 153.0,
+        "rotate": 1052.0,
+        "pressure": 97.2,
+        "vibration": 50.8
+      },
+      {
+        "datetime": "2025-05-23T08:00:00",
+        "machineID": 1,
+        "volt": 152.0,
+        "rotate": 1048.0,
+        "pressure": 96.8,
+        "vibration": 51.2
+      },
+      {
+        "datetime": "2025-05-23T09:00:00",
+        "machineID": 1,
+        "volt": 151.0,
+        "rotate": 1044.0,
+        "pressure": 96.4,
+        "vibration": 51.6
+      },
+      {
+        "datetime": "2025-05-23T10:00:00",
+        "machineID": 1,
+        "volt": 150.0,
+        "rotate": 1040.0,
+        "pressure": 96.0,
+        "vibration": 52.0
+      },
+      {
+        "datetime": "2025-05-23T11:00:00",
+        "machineID": 1,
+        "volt": 149.0,
+        "rotate": 1036.0,
+        "pressure": 95.6,
+        "vibration": 52.4
+      },
+      {
+        "datetime": "2025-05-23T12:00:00",
+        "machineID": 1,
+        "volt": 148.0,
+        "rotate": 1032.0,
+        "pressure": 95.2,
+        "vibration": 52.8
+      },
+      {
+        "datetime": "2025-05-23T13:00:00",
+        "machineID": 1,
+        "volt": 147.0,
+        "rotate": 1028.0,
+        "pressure": 94.8,
+        "vibration": 53.2
+      },
+      {
+        "datetime": "2025-05-23T14:00:00",
+        "machineID": 1,
+        "volt": 146.0,
+        "rotate": 1024.0,
+        "pressure": 94.4,
+        "vibration": 53.6
+      },
+      {
+        "datetime": "2025-05-23T15:00:00",
+        "machineID": 1,
+        "volt": 145.0,
+        "rotate": 1020.0,
+        "pressure": 94.0,
+        "vibration": 54.0
+      },
+      {
+        "datetime": "2025-05-23T16:00:00",
+        "machineID": 1,
+        "volt": 144.0,
+        "rotate": 1016.0,
+        "pressure": 93.6,
+        "vibration": 54.4
+      },
+      {
+        "datetime": "2025-05-23T17:00:00",
+        "machineID": 1,
+        "volt": 143.0,
+        "rotate": 1012.0,
+        "pressure": 93.2,
+        "vibration": 54.8
+      },
+      {
+        "datetime": "2025-05-23T18:00:00",
+        "machineID": 1,
+        "volt": 142.0,
+        "rotate": 1008.0,
+        "pressure": 92.8,
+        "vibration": 55.2
+      },
+      {
+        "datetime": "2025-05-23T19:00:00",
+        "machineID": 1,
+        "volt": 141.0,
+        "rotate": 1004.0,
+        "pressure": 92.4,
+        "vibration": 55.6
+      },
+      {
+        "datetime": "2025-05-23T20:00:00",
+        "machineID": 1,
+        "volt": 140.0,
+        "rotate": 1000.0,
+        "pressure": 92.0,
+        "vibration": 56.0
+      },
+      {
+        "datetime": "2025-05-23T21:00:00",
+        "machineID": 1,
+        "volt": 139.0,
+        "rotate": 996.0,
+        "pressure": 91.6,
+        "vibration": 56.4
+      },
+      {
+        "datetime": "2025-05-23T22:00:00",
+        "machineID": 1,
+        "volt": 138.0,
+        "rotate": 992.0,
+        "pressure": 91.2,
+        "vibration": 56.8
+      },
+      {
+        "datetime": "2025-05-23T23:00:00",
+        "machineID": 1,
+        "volt": 137.0,
+        "rotate": 988.0,
+        "pressure": 90.8,
+        "vibration": 57.2
+      },
+      {
+        "datetime": "2025-05-23T00:00:00",
+        "machineID": 1,
+        "volt": 170.0,
+        "rotate": 1085.0,
+        "pressure": 103.0,
+        "vibration": 47.0
+      }
+    ],
+    "errorsLast24h": [
+      {
+        "datetime": "2025-05-22T05:00:00",
+        "machineID": 1,
+        "errorID": "error1"
+      },
+      {
+        "datetime": "2025-05-23T23:00:00",
+        "machineID": 1,
+        "errorID": "error4"
+      }
+    ]
+  },
+  {
+    "machineID": 2,
+    "telemetryLast24h": [
+      {
+        "datetime": "2015-08-22T00:00:00",
+        "machineID": 2,
+        "volt": 149.376374,
+        "rotate": 410.517697,
+        "pressure": 107.627403,
+        "vibration": 39.483489
+      },
+      {
+        "datetime": "2015-08-22T01:00:00",
+        "machineID": 2,
+        "volt": 154.598978,
+        "rotate": 516.333109,
+        "pressure": 102.134888,
+        "vibration": 35.339241
+      },
+      {
+        "datetime": "2015-08-22T02:00:00",
+        "machineID": 2,
+        "volt": 153.471123,
+        "rotate": 464.68168,
+        "pressure": 105.00525,
+        "vibration": 39.088456
+      },
+      {
+        "datetime": "2015-08-22T03:00:00",
+        "machineID": 2,
+        "volt": 189.766663,
+        "rotate": 437.041731,
+        "pressure": 98.08805,
+        "vibration": 37.956105
+      },
+      {
+        "datetime": "2015-08-22T04:00:00",
+        "machineID": 2,
+        "volt": 180.493822,
+        "rotate": 469.043459,
+        "pressure": 98.840498,
+        "vibration": 36.139558
+      },
+      {
+        "datetime": "2015-08-22T05:00:00",
+        "machineID": 2,
+        "volt": 182.293291,
+        "rotate": 432.062309,
+        "pressure": 103.411378,
+        "vibration": 37.165666
+      },
+      {
+        "datetime": "2015-08-22T06:00:00",
+        "machineID": 2,
+        "volt": 143.171282,
+        "rotate": 473.692927,
+        "pressure": 106.964256,
+        "vibration": 40.951321
+      },
+      {
+        "datetime": "2015-08-22T07:00:00",
+        "machineID": 2,
+        "volt": 144.747461,
+        "rotate": 398.087808,
+        "pressure": 87.12177,
+        "vibration": 35.336439
+      },
+      {
+        "datetime": "2015-08-22T08:00:00",
+        "machineID": 2,
+        "volt": 155.547552,
+        "rotate": 462.584469,
+        "pressure": 108.509648,
+        "vibration": 28.837121
+      },
+      {
+        "datetime": "2015-08-22T09:00:00",
+        "machineID": 2,
+        "volt": 174.931654,
+        "rotate": 346.248784,
+        "pressure": 79.021923,
+        "vibration": 44.227826
+      },
+      {
+        "datetime": "2015-08-22T10:00:00",
+        "machineID": 2,
+        "volt": 179.095461,
+        "rotate": 473.082033,
+        "pressure": 111.216353,
+        "vibration": 38.932026
+      },
+      {
+        "datetime": "2015-08-22T11:00:00",
+        "machineID": 2,
+        "volt": 156.748775,
+        "rotate": 492.718939,
+        "pressure": 109.990608,
+        "vibration": 37.230879
+      },
+      {
+        "datetime": "2015-08-22T12:00:00",
+        "machineID": 2,
+        "volt": 179.398285,
+        "rotate": 401.250201,
+        "pressure": 99.997761,
+        "vibration": 45.64976
+      },
+      {
+        "datetime": "2015-08-22T13:00:00",
+        "machineID": 2,
+        "volt": 162.627825,
+        "rotate": 415.871188,
+        "pressure": 109.0618,
+        "vibration": 39.759688
+      },
+      {
+        "datetime": "2015-08-22T14:00:00",
+        "machineID": 2,
+        "volt": 170.816083,
+        "rotate": 411.555947,
+        "pressure": 106.651667,
+        "vibration": 42.09002
+      },
+      {
+        "datetime": "2015-08-22T15:00:00",
+        "machineID": 2,
+        "volt": 186.927236,
+        "rotate": 493.83725,
+        "pressure": 124.564613,
+        "vibration": 47.198694
+      },
+      {
+        "datetime": "2015-08-22T16:00:00",
+        "machineID": 2,
+        "volt": 192.51665,
+        "rotate": 393.582183,
+        "pressure": 93.732724,
+        "vibration": 38.285618
+      },
+      {
+        "datetime": "2015-08-22T17:00:00",
+        "machineID": 2,
+        "volt": 193.660239,
+        "rotate": 574.30765,
+        "pressure": 112.182504,
+        "vibration": 43.034757
+      },
+      {
+        "datetime": "2015-08-22T18:00:00",
+        "machineID": 2,
+        "volt": 187.315755,
+        "rotate": 472.086088,
+        "pressure": 101.111192,
+        "vibration": 41.673446
+      },
+      {
+        "datetime": "2015-08-22T19:00:00",
+        "machineID": 2,
+        "volt": 179.382933,
+        "rotate": 439.880389,
+        "pressure": 111.486606,
+        "vibration": 34.07938
+      },
+      {
+        "datetime": "2015-08-22T20:00:00",
+        "machineID": 2,
+        "volt": 138.484302,
+        "rotate": 377.74774,
+        "pressure": 100.688926,
+        "vibration": 41.661644
+      },
+      {
+        "datetime": "2015-08-22T21:00:00",
+        "machineID": 2,
+        "volt": 167.543103,
+        "rotate": 504.107272,
+        "pressure": 107.142386,
+        "vibration": 44.506628
+      },
+      {
+        "datetime": "2015-08-22T22:00:00",
+        "machineID": 2,
+        "volt": 161.091011,
+        "rotate": 455.863853,
+        "pressure": 80.072869,
+        "vibration": 44.174845
+      },
+      {
+        "datetime": "2015-08-22T23:00:00",
+        "machineID": 2,
+        "volt": 190.439922,
+        "rotate": 425.370778,
+        "pressure": 88.373206,
+        "vibration": 46.129982
+      }
+    ],
+    "errorsLast24h": [
+      {
+        "datetime": "2015-08-22T00:00:00",
+        "machineID": 2,
+        "errorID": "error1"
+      }
+    ]
+  }
+]

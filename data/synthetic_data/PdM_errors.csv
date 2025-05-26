@@ -1,0 +1,4 @@
+datetime,machineID,errorID
+2025-05-22 05:00:00,1,error1
+2025-05-23 23:00:00,1,error4
+2015-08-22 00:00:00,2,error1

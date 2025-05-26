@@ -1,0 +1,26 @@
+# Dataset path
+paths:
+  training_telemetry: 'data/training_data/PdM_telemetry.csv'
+  training_errors: 'data/training_data/PdM_errors.csv'
+  training_failures: 'data/training_data/PdM_failures.csv'
+  
+  # Predict data 
+  new_data_folder: 'data/synthetic_data/' 
+  
+  model_output: 'models/model.joblib'
+  predictions_output: 'outputs/latest_predictions.csv'
+  log_file: 'logs/app.log'
+  
+  # Evaluation metrics
+  evaluation_metrics: 'outputs/evaluation_metrics.json'
+  confusion_matrix_plot: 'outputs/confusion_matrix.png'
+  feature_importance_plot: 'outputs/feature_importance.png'
+
+# Training Parameters 
+training:
+  train_size: 0.8
+
+# Model Parameters
+model_params:
+  eval_metric: 'logloss'
+  random_state: 42
