@@ -136,7 +136,7 @@ Once the server is running, you can interact with the API:
 
     Open your browser and navigate to:
 
-    [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+    [http://localhost:8000/docs](http://localhost:8000/docs)
 
     This provides an interactive interface where you can test the `/predict` endpoint directly.
 
