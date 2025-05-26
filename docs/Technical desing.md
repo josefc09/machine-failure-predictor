@@ -58,7 +58,7 @@ Unexpected machinery failures lead to significant production downtime, high emer
 
 **5.1 High-Level Architecture (Data Flow)**
 
-![][image1]
+<img src="./images/maintance_predictive_architecture.png" alt="Data Flow" width="550">
 
 **5.2 Components**
 
